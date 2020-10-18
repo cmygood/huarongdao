@@ -1,2 +1,4 @@
 # huarongdao
 python图片华容道
+
+进行ai大比拼时在300行输入uuid、320行和580行输入队伍id和token，小图和代码要在同一个文件夹中
